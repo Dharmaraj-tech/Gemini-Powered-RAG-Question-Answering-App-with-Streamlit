@@ -19,7 +19,7 @@ Setup Instructions:
 
 Clone the repository
 
-git clone 
+git clone  https://github.com/Dharmaraj-tech/Gemini-Powered-RAG-Question-Answering-App-with-Streamlit.git
 
  Install dependencies
  pip install streamlit langchain langchain-community google-generativeai newspaper3k sentence-transformers lxml_html_clean
